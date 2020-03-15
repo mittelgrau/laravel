@@ -1,6 +1,6 @@
 @extends('layouts.default')
 @section('main')
-<main class="font-sans antialiased container">
+<main class="container font-sans antialiased">
 
 <h1> Hello world </h1>
 
