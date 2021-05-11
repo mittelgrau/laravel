@@ -14,7 +14,7 @@
         "babel-loader": "^8.0.6",
         "babel-polyfill": "^6.26.0",
         "cross-env": "^7.0",
-        "lodash": "^4.17.19",
+        "lodash": "^4.17.21",
         "parcel-bundler": "^1.12.4",
         "parcel-plugin-notifier": "^1.0.0",
         "parcel-plugin-purgecss": "^2.1.3",
